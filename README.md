@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1sN39api4CYmcXptow02F1oVyJqdNqKU3/view?usp=shari
     
 Example of using it.            
 Image processing: https://youtu.be/pSR4JTB8EmI      
-Export binary data for using ai: https://youtu.be/lng2Z1qz4D4           
+Export binary data for using AI: https://youtu.be/lng2Z1qz4D4           
 
 step 01                
 ![001](https://user-images.githubusercontent.com/19296155/147617848-ea91ac5b-4e99-4b4a-9267-c988c92b652f.png)
