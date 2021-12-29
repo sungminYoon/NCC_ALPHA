@@ -14,7 +14,7 @@ https://drive.google.com/file/d/1sN39api4CYmcXptow02F1oVyJqdNqKU3/view?usp=shari
 Example of using it.      
 It takes "1~10 minutes" to process.         
 There is an error in the progress bar. 
-If the circle is spinning well, there is no problem.![진행 동그라미](https://user-images.githubusercontent.com/19296155/147619496-4f63c3d7-531c-4dce-a84b-5c467176b5d4.png)
+If the circle is spinning well, there is no problem.![진행 동그라미](https://user-images.githubusercontent.com/19296155/147619496-4f63c3d7-531c-4dce-a84b-5c467176b5d4.png)           
 Image processing: https://youtu.be/pSR4JTB8EmI      
 Export binary data for using AI: https://youtu.be/lng2Z1qz4D4           
 
