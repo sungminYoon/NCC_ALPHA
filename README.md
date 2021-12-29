@@ -6,7 +6,8 @@ This is a preprocessing program to help AI.
 Split the slide CT medical images using the THRESHOLD.     
 It makes it easy to make 3D images.     
 
-Download exe file.           
+Download exe file.  
+For compatibility, please run it on the D: drive.           
 https://drive.google.com/file/d/1sN39api4CYmcXptow02F1oVyJqdNqKU3/view?usp=sharing 
     
 Example of using it.
