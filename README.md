@@ -38,6 +38,9 @@ step 08
 ![008](https://user-images.githubusercontent.com/19296155/147617868-1082f5ed-96d6-4dea-bdc9-ba53a3548d05.png)
 
 step 09         
+Even if the bar stops, if there's a circle,
+It's being taken care of.
+It takes about 1 to 10 minutes to process.
 ![009](https://user-images.githubusercontent.com/19296155/147617870-11e81e26-2b98-4866-8ad2-0be4a2ad0938.png)
 
 step 10         
