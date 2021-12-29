@@ -12,7 +12,7 @@ For compatibility, please run it on the D: drive.
 https://drive.google.com/file/d/1sN39api4CYmcXptow02F1oVyJqdNqKU3/view?usp=sharing 
     
 Example of using it.      
-It takes "1~10 minutes" to process.
+It takes "1~10 minutes" to process.         
 Image processing: https://youtu.be/pSR4JTB8EmI      
 Export binary data for using AI: https://youtu.be/lng2Z1qz4D4           
 
