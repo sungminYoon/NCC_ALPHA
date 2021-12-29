@@ -13,6 +13,7 @@ https://drive.google.com/file/d/1sN39api4CYmcXptow02F1oVyJqdNqKU3/view?usp=shari
     
 Example of using it.      
 It takes "1~10 minutes" to process.         
+There is an error in the progress bar. If the circle is spinning well, there is no problem.         
 Image processing: https://youtu.be/pSR4JTB8EmI      
 Export binary data for using AI: https://youtu.be/lng2Z1qz4D4           
 
