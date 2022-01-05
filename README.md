@@ -22,6 +22,11 @@ Image processing: https://youtu.be/pSR4JTB8EmI
 Export binary data for using AI: https://youtu.be/lng2Z1qz4D4        
 ROI Data verification program: https://github.com/sungminYoon/JSON_CHECK
 
+Currently, this program is the alpha version.           
+The search function has been improved since its launch.         
+If you want to get the improved version and use it,         
+Please leave your e-mail address with the comments.         
+
 step 01                
 ![001](https://user-images.githubusercontent.com/19296155/147617848-ea91ac5b-4e99-4b4a-9267-c988c92b652f.png)
 
