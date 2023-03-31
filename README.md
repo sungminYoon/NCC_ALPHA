@@ -7,25 +7,10 @@ This is a preprocessing program to help AI.
 Split the slide CT medical images using the THRESHOLD.     
 It makes it easy to make 3D images.     
 
-Download exe file.  
-For compatibility, please run it on the D: drive.        
-The CT image to use must also be on the D: drive.               
-https://drive.google.com/file/d/1ODNeW4dbDex-ozn1IjuNPDiam-_BPJwU/view?usp=sharing
-    
-Example of using it.      
-It takes "1~10 minutes" to process.         
-There is an error in the progress bar. 
-If the circle is spinning well, there is no problem.![진행 동그라미](https://user-images.githubusercontent.com/19296155/147619496-4f63c3d7-531c-4dce-a84b-5c467176b5d4.png)   
-
-
-Image processing: https://youtu.be/pSR4JTB8EmI      
-Export binary data for using AI: https://youtu.be/lng2Z1qz4D4        
-ROI Data verification program: https://github.com/sungminYoon/JSON_CHECK
+There is a 3d slice program that has been refined and built for 20 years with support from the US National Medical Agency. However, it is not easy to understand even though it is open source due to various converged technologies. The NCC_3D_ALPA program is an easy-to-understand program that even undergraduate students can understand using only the Python language. The NCC_3D_ALPA program was created to provide hints and easy access methods to those who want to make their own programs such as 3D slice programs.
 
 Currently, this program is the alpha version.           
-The search function has been improved since its launch.         
-If you want to get the improved version and use it,         
-Please leave your e-mail address with the comments.         
+The search function has been improved since its launch.                  
 
 step 01                
 ![001](https://user-images.githubusercontent.com/19296155/147617848-ea91ac5b-4e99-4b4a-9267-c988c92b652f.png)
